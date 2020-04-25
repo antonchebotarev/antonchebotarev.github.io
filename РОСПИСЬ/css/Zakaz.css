@@ -1,0 +1,29 @@
+.forma {
+	margin-top: 75px;
+	width: auto;
+	height: auto;
+	background-color: #bbbbbb;
+	
+	font-family: sans-serif;
+	border-radius: 8px;
+	margin-bottom: 75px;
+	padding: 20px;
+}
+
+body {
+  padding-top: 56px;
+  background-color: #f1f1f1;
+  font-family: 'Oswald', sans-serif;
+}
+
+.navbar-brand img {
+	width: 170px;
+	
+}
+
+li a {
+	color: #ffffff;
+	text-decoration: none;
+	border-bottom: none;
+}
+
